@@ -3,13 +3,6 @@ import discord
 import asyncio
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
-<<<<<<< HEAD
-from keep_alive import keep_alive
-
-keep_alive() 
-=======
-
->>>>>>> 75525fc (Initial upload of realmtime.py)
 
 # Load environment variables
 load_dotenv()
